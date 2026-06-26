@@ -78,12 +78,8 @@ Retail Sales Dashboard.xlsx
 
 ## 📷 Dashboard Preview
 
-> Add a screenshot of your dashboard here.
-
-Example:
-
 ```
-images/dashboard.png
+C:\Users\bios\OneDrive\Images\Screenshots
 ```
 
 ---
@@ -121,20 +117,3 @@ The dashboard is built using retail sales transaction data containing:
 **Raneem Sameh**
 
 Data Analyst | Excel | SQL | Power BI | Python
-
-```
-
-### لو هترفعيه على GitHub
-اعملي شكل المشروع كده:
-
-```
-Retail-Sales-Dashboard/
-│
-├── Retail Sales Dashboard.xlsx
-├── README.md
-├── images/
-│   └── dashboard.png
-└── dataset (optional)
-```
-
-📌 **أنصحك تضيفي صورة للدashboard داخل مجلد `images`** لأن ده بيخلي المشروع شكله احترافي جدًا ويجذب أي HR أو Recruiter على GitHub.
