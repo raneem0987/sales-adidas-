@@ -37,8 +37,7 @@ Retail Sales Dashboard.xlsx
 ├── Dashboard
 │   ├── KPI Cards
 │   ├── Pivot Charts
-│   ├── Slicers
-│   └── Timeline Filter
+│   └── Slicers
 │
 ├── Data
 │   └── Raw Sales Data
