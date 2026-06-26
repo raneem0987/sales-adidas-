@@ -79,7 +79,7 @@ Retail Sales Dashboard.xlsx
 ## 📷 Dashboard Preview
 
 ```
-C:\Users\bios\OneDrive\Images\Screenshots\image.png
+image.png
 ```
 
 ---
