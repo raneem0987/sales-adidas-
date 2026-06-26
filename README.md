@@ -76,14 +76,6 @@ Retail Sales Dashboard.xlsx
 
 ---
 
-## 📷 Dashboard Preview
-
-```
-image.png
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
