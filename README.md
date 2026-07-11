@@ -6,6 +6,14 @@ This project is an interactive Retail Sales Dashboard built using Microsoft Exce
 
 ---
 
+# 📊 Dashboard Preview
+
+
+![Dashboard](adidas.png)
+
+---
+
+
 ## 🎯 Objectives
 
 - Analyze total sales and profit.
